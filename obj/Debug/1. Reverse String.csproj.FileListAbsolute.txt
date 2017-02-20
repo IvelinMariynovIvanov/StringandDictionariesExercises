@@ -1,0 +1,8 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\StringandDictionariesExercises\StringandDictionariesExercises\bin\Debug\StringandDictionariesExercises.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\StringandDictionariesExercises\StringandDictionariesExercises\bin\Debug\StringandDictionariesExercises.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\StringandDictionariesExercises\StringandDictionariesExercises\bin\Debug\StringandDictionariesExercises.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\StringandDictionariesExercises\StringandDictionariesExercises\obj\Debug\StringandDictionariesExercises.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\StringandDictionariesExercises\StringandDictionariesExercises\obj\Debug\StringandDictionariesExercises.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\C#Basic\StringandDictionariesExercises\StringandDictionariesExercises\bin\Debug\StringandDictionariesExercises.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\C#Basic\StringandDictionariesExercises\StringandDictionariesExercises\obj\Debug\StringandDictionariesExercises.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\C#Basic\StringandDictionariesExercises\StringandDictionariesExercises\obj\Debug\StringandDictionariesExercises.pdb
